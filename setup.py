@@ -15,7 +15,7 @@ setuptools.setup(
     version = __version__,
     author = AUTHOR_USER_NAME,
     author_email = AUTHOR_EMAIL,
-    description = "A Python Package for a CNN based Text Summarizer app",
+    description = "A Python Package for a NLP based Text Summarizer app",
     long_description = long_description,
     long_description_content_type = "text/markdown",
     url = f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
